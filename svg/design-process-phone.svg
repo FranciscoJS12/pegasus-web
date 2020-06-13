@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 306 413">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-6, .cls-8 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: #878787;
+        font-size: 33px;
+        font-family: HelveticaNeueLTStd-Bd, Helvetica Neue LT Std;
+        letter-spacing: 0.01em;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #103a7e;
+      }
+
+      .cls-4 {
+        stroke: #0095bb;
+      }
+
+      .cls-5 {
+        opacity: 0.85;
+      }
+
+      .cls-6 {
+        stroke: #707070;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="design-process-phone" transform="translate(-39 -2502)">
+    <g id="Ellipse_55" data-name="Ellipse 55" class="cls-1" transform="translate(39 2502)">
+      <ellipse class="cls-7" cx="67.5" cy="67" rx="67.5" ry="67"/>
+      <ellipse class="cls-8" cx="67.5" cy="67" rx="67" ry="66.5"/>
+    </g>
+    <text id="STRATEGY" class="cls-2" transform="translate(48 2533)"><tspan x="4.474" y="32">STRAT</tspan><tspan x="23.449" y="67">EGY</tspan></text>
+    <ellipse id="Ellipse_54" data-name="Ellipse 54" class="cls-3" cx="67.5" cy="67" rx="67.5" ry="67" transform="translate(185 2502)"/>
+    <text id="DISCOVERY" class="cls-2" transform="translate(192 2533)"><tspan x="6.974" y="32">DISCO</tspan><tspan x="16.61" y="67">VERY</tspan></text>
+    <g id="Ellipse_53" data-name="Ellipse 53" class="cls-4" transform="translate(39 2625.942)">
+      <ellipse class="cls-7" cx="67.5" cy="67" rx="67.5" ry="67"/>
+      <ellipse class="cls-8" cx="67.5" cy="67" rx="67" ry="66.5"/>
+    </g>
+    <text id="ANALYSIS" class="cls-2" transform="translate(41 2654.942)"><tspan x="0.677" y="32">ANALYS</tspan><tspan x="50.259" y="67">IS</tspan></text>
+    <ellipse id="Ellipse_51" data-name="Ellipse 51" class="cls-5" cx="67.5" cy="67" rx="67.5" ry="67" transform="translate(185 2627)"/>
+    <text id="TESTING" class="cls-2" transform="translate(200 2655)"><tspan x="5.909" y="32">TESTI</tspan><tspan x="28.085" y="67">NG</tspan></text>
+    <g id="Ellipse_52" data-name="Ellipse 52" class="cls-1" transform="translate(161 2730)">
+      <ellipse class="cls-7" cx="92" cy="92.5" rx="92" ry="92.5"/>
+      <ellipse class="cls-8" cx="92" cy="92.5" rx="91.5" ry="92"/>
+    </g>
+    <text id="PRODUCTION" class="cls-2" transform="translate(185 2778)"><tspan x="6.632" y="32">PRODU</tspan><tspan x="14.601" y="67">CTION</tspan></text>
+    <path id="Path_1467" data-name="Path 1467" class="cls-6" d="M929.707,1637.229H881.514" transform="translate(-726.014 1058.025)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="63" viewBox="0 0 43 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        opacity: 0.65;
+        mix-blend-mode: screen;
+        isolation: isolate;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Polygon_3" data-name="Polygon 3" class="cls-1" transform="translate(43 63) rotate(180)">
+    <path class="cls-2" d="M21.5,0,43,63H0Z"/>
+    <path class="cls-3" d="M 21.50000381469727 30.96167755126953 L 13.97899055480957 52.99999618530273 L 29.02101707458496 52.99999618530273 L 21.50000381469727 30.96167755126953 M 21.50000381469727 -3.814697265625e-06 L 43.00000381469727 62.99999618530273 L 3.814697265625e-06 62.99999618530273 L 21.50000381469727 -3.814697265625e-06 Z"/>
+  </g>
+</svg>
